@@ -1,15 +1,15 @@
-I"B	<h1 class="fs-9" id="infinicache">InfiniCache</h1>
+I"O	<h1 class="fs-9" id="infinicache">InfiniCache</h1>
 
 <!-- Welcome to InfiniCache porject site.
 {: .fs-6 .fw-300 }
  -->
 <p class="fs-6 fw-300">InfiniCache is a <strong>cost-effective</strong> memory cache that is built atop <strong>ephemeral serverless functions</strong></p>
 
-<p><a href="https://www.usenix.org/system/files/fast20-wang_ao.pdf" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">PAPER</a> 
-<a href="https://www.youtube.com/watch?v=3_NmYAh5zek&amp;t" class="btn fs-5 mb-4 mb-md-0 mr-2">TALK</a> 
-<a href="https://github.com/mason-leap-lab/infinicache" class="btn fs-5 mb-4 mb-md-0 mr-2">CODE</a>
+<p><a href="https://www.usenix.org/system/files/fast20-wang_ao.pdf" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2"> PAPER </a> 
+<a href="https://www.youtube.com/watch?v=3_NmYAh5zek&amp;t" class="btn fs-5 mb-4 mb-md-0 mr-2"> TALK </a> 
+<a href="https://github.com/mason-leap-lab/infinicache" class="btn fs-5 mb-4 mb-md-0 mr-2"> CODE </a>
 <a href="https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_wang-ao.pdf" class="btn fs-5 mb-4 mb-md-0 mr-2"> SLIDE </a>
-<a href="docs/infinicache_poster_final.pdf" class="btn fs-5 mb-4 mb-md-0">POSTER</a></p>
+<a href="docs/fast20-infinicache_poster.pdf" class="btn fs-5 mb-4 mb-md-0">POSTER</a></p>
 
 <hr />
 
