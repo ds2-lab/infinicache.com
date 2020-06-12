@@ -35,6 +35,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
+  "Contact":
+    - "#contact"
   "InfiniCache on GitHub":
     - "//github.com/mason-leap-lab/infinicache"
 
