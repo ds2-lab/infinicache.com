@@ -19,7 +19,7 @@ InfiniCache is a **cost-effective** memory cache that is built atop **ephemeral 
 [&nbsp;TALK&nbsp;](https://www.youtube.com/watch?v=3_NmYAh5zek&t){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [&nbsp;CODE&nbsp;](https://github.com/mason-leap-lab/infinicache){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [&nbsp;SLIDE&nbsp;](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_wang-ao.pdf){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[POSTER](docs/infinicache_poster_final.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
+[POSTER](https://github.com/mason-leap-lab/infinicache.com/blob/master/docs/infinicache_poster_final.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
