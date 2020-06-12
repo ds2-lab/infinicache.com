@@ -1,2 +1,2 @@
-# infinicache.com
+# InfiniCache.com
 InfiniCache site
