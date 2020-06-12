@@ -1,0 +1,43 @@
+I">	<h1 class="fs-9" id="infinicache">InfiniCache</h1>
+
+<!-- Welcome to InfiniCache porject site.
+{: .fs-6 .fw-300 }
+ -->
+<p class="fs-6 fw-300">InfiniCache is a <strong>cost-effective</strong> memory cache that is built atop <strong>ephemeral serverless functions</strong></p>
+
+<p><a href="https://www.usenix.org/system/files/fast20-wang_ao.pdf" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">PAPER</a> 
+<a href="https://www.youtube.com/watch?v=3_NmYAh5zek&amp;t" class="btn fs-5 mb-4 mb-md-0 mr-2">TALK</a> 
+<a href="https://github.com/mason-leap-lab/infinicache" class="btn fs-5 mb-4 mb-md-0 mr-2">CODE</a>
+<a href="https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_wang-ao.pdf" class="btn fs-5 mb-4 mb-md-0 mr-2">SLIDE</a>
+<a href="./docs/infinicache_poster_final.pdf" class="btn fs-5 mb-4 mb-md-0">POSTER</a></p>
+
+<hr />
+
+<h2 class="fs-6 5" id="what-is-infinicache">What is InfiniCache</h2>
+
+<p>A first-of-its-kind in-memory object caching system that is completely built and deployed atop ephemeral serverless functions. INFINICACHE exploits and orchestrates serverless functions’ memory resources to enable elastic payper-use caching. INFINICACHE’s design combines erasure coding, intelligent billed duration control, and an efficient data backup mechanism to maximize data availability and cost effectiveness while balancing the risk of losing cached state and performance.</p>
+
+<hr />
+<h2 class="fs-6 5" id="feature">Feature</h2>
+
+<ul>
+  <li>The very first in-memory object caching system powered by ephemeral and “stateless” cloud functions.</li>
+  <li>Leverage several intelligent techniques to maxmize data availability, such as erasure coding periodic warm-up abd periodic delta-sync techniques.</li>
+  <li>InfiniCache achieves performance comparable to ElastiCache (600GB cache capacity) for large objects and improves the cost effectiveness of cloud IMOCs by 31 – 96x.</li>
+</ul>
+
+<hr />
+<h3 id="contact">Contact</h3>
+<p>Please feel free to reach out us if you have any questions about <em>InfiniCache</em>.</p>
+
+<h3 id="contributing">Contributing</h3>
+
+<p>Please feel free to hack on InfiniCache! We’re happy to accept contributions.</p>
+
+<h4 id="thank-you-to-the-contributors-of-infinicache"><strong>Thank you to the contributors of InfiniCache!</strong></h4>
+
+<!-- <ul class="list-style-none">
+
+</ul>
+ -->
+:ET
