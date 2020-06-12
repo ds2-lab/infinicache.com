@@ -15,11 +15,11 @@ permalink: /
 InfiniCache is a **cost-effective** memory cache that is built atop **ephemeral serverless functions**
 {: .fs-6 .fw-300 }
 
-[PAPER](https://www.usenix.org/system/files/fast20-wang_ao.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
-[TALK](https://www.youtube.com/watch?v=3_NmYAh5zek&t){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } 
-[CODE](https://github.com/mason-leap-lab/infinicache){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[SLIDE](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_wang-ao.pdf){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[POSTER](./docs/infinicache_poster_final.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
+[&nbsp;PAPER&nbsp;](https://www.usenix.org/system/files/fast20-wang_ao.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[&nbsp;TALK&nbsp;](https://www.youtube.com/watch?v=3_NmYAh5zek&t){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[&nbsp;CODE&nbsp;](https://github.com/mason-leap-lab/infinicache){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[&nbsp;SLIDE&nbsp;](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_wang-ao.pdf){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[POSTER](docs/infinicache_poster_final.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
